@@ -12,7 +12,7 @@ This project aims to implement a machine learning model for training a spam dete
 
 **PROBLEM STATEMENT**
 
-In the paper, we would try to analysis different methods to identify spam messages. We will use the different approach, based on word count and term-frequency inverse document-frequency (tf-idf) transform to classify the messages. Following steps are required in order to achieve the objective:
+In this paper, we would try to analysis different methods to identify spam messages. We will use the different approach, based on word count and term-frequency inverse document-frequency (tf-idf) transform to classify the messages. Following steps are required in order to achieve the objective:
 
 1.	Download and pre-process the SMS Spam Collection dataset.
 2.	Text Vectorization (using TF-IDF) to classify the messages.
